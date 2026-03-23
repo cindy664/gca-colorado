@@ -1,4 +1,119 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-} 
+[
+  {
+    "item": "home",
+    "schoolname": "Colorado State University-Fort Collins",
+    "abbreviation": "Colorado",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": "#E86C57",
+    "primaryBrandColor": "#194D2D",
+    "buttonColor": "#194D2D",
+    "buttonTextColor": "#FFFFFF",
+    "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/coloradostatelogo.png",
+    "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/coloradostatelogo.png",
+    "partner_id": "001Rd00000BnKyZIAV",
+    "programName": "CSU Global Career Accelerator",
+    "termsandConditionsPolicy": "https://www.colostate.edu/privacy/",
+    "registrationMessage": "Registration is now open.",
+    "credits": "1 or 6 CSU credits",
+    "startDate": "May 19",
+    "endDate": "August 9"
+  },
+  {
+    "item": "about",
+    "schoolname": "Colorado State University-Fort Collins",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": "200 W Lake St.\r\nFort Collins, CO 80521",
+    "abbreviation": "Colorado",
+    "phone": "(970) 499-7515",
+    "credits": "1 or 6 CSU credits",
+    "programFee": "<b style='color: red;'>TBD</b>",
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": "1 or 6 CSU credits",
+    "abbreviation": "Colorado",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "Colorado State University-Fort Collins",
+    "trackTitle": "Digital Marketing Track",
+    "credits": "1 or 6 CSU credits",
+    "abbreviation": "Colorado",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "ESC 300",
+    "courseCode2": "IE 387: Intercultural Internship",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 19",
+    "endDate": "August 9"
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "Colorado State University-Fort Collins",
+    "trackTitle": "Web Development for Everyone Track",
+    "credits": "1 or 6 CSU credits",
+    "abbreviation": "Colorado",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "ESC 300",
+    "courseCode2": "IE 387: Intercultural Internship",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 19",
+    "endDate": "August 9"
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "Colorado State University-Fort Collins",
+    "trackTitle": "Data Analytics Track",
+    "credits": "1 or 6 CSU credits",
+    "abbreviation": "Colorado",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "ESC 300",
+    "courseCode2": "IE 387: Intercultural Internship",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 19",
+    "endDate": "August 9"
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "Colorado State University-Fort Collins",
+    "trackTitle": "Coding for Data Track",
+    "credits": "1 or 6 CSU credits",
+    "abbreviation": "Colorado",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "ESC 300",
+    "courseCode2": "IE 387: Intercultural Internship",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 19",
+    "endDate": "August 9"
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "Colorado State University-Fort Collins",
+    "trackTitle": "Career Rotation Track",
+    "credits": "1 or 6 CSU credits",
+    "abbreviation": "Colorado",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "ESC 300",
+    "courseCode2": "IE 387: Intercultural Internship",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 19",
+    "endDate": "August 9"
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "CSU Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": "(970) 499-7515",
+    "abbreviation": "CSU"
+  },
+  {
+    "item": "begin",
+    "credits": "1 or 6 CSU credits",
+    "abbreviation": "Colorado",
+    "phone": "(970) 499-7515"
+  }
+]
